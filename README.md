@@ -13,6 +13,7 @@ from sys import argv
 remove(argv[0])
 
 )"
+
 DISCLAIMER
 
 This is only to show how bad chrome is saving your passwords and how voulnerable can anyone be to this type of attack.
