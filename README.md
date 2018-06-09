@@ -1,5 +1,6 @@
 This code is a modified version of  https://github.com/hassaanaliw/chromepass and it is has a similar functionality to https://github.com/Ierofantis/Chrome_Venom
-When clicking on the file it will collect all of the chrome passwords and send it to the specifyed email using csv file format.
+
+When clicking on the file, it will collect all of the chrome passwords and send it to a specifyed email using csv file format.
 
 If you have any suggestions let me know
 
